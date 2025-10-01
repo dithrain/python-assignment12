@@ -1,0 +1,14 @@
+Static visualizations are best for showing a snapshot of data, but they don’t change once they're made. 
+They're and easy to share, but if someone wants to dig deeper, they have to make a new chart. 
+Interactive visualizations let people explore the data themselves by zooming, filtering, 
+or hovering to see details. This makes them more flexible and useful when the audience has different questions
+ about the same dataset.
+
+Dashboards put multiple charts and controls together in one place. They allow real-time data exploration, so 
+instead of flipping through slides or reports, someone can just change filters to change results. This makes them
+ more practical if the data changes often.
+
+Plotly and Dash improve data communication by making complex information easier to understand. Instead 
+of just sending numbers or images, an interactive chart lets the audience connect with the data to their preference. 
+In a professional setting, this helps folks from technical and non-technical backgrounds get insights faster, 
+which can improve teamwork and and make decision making easier.
